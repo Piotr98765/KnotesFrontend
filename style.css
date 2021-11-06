@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One|Roboto+Mono:400,700&display=swap');
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #D8E0EE;
+    padding: 10px;
+
+}
+
+
+.introduction {
+    font-size: large;
+    margin-top: 100px;
+}
+
+
+.menu {
+    float: right;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.menu li {
+    display: inline-block;
+    margin: 15px;
+}
+
+
+.aboutus {
+    margin-top: 60px;
+    padding: 20px;
+    font-size: 80%;
+}
+
+.loginsection {
+    margin-top: 100px;
+    background-color: #D8E0EE;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+}
+
+.loginsection a {
+    color: #000;
+}
+
+
+
+.registersection {
+    margin-top: 90px;
+    background-color: #D8E0EE;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+}
+
+.registersection a {
+    color: #000;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #7896CF;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button a {
+    color: #000;
+}
+
+.footer {
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+    background-color: #D8E0EE;
+    color: #000;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 80%;
+}
+
+
+
+
+
+ 
+ 
